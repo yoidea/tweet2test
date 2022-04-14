@@ -1,2 +1,1 @@
-# tweet2test
-ツイート文を題材に選択問題を作れるサービス
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
